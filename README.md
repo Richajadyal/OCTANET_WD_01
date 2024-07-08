@@ -8,7 +8,7 @@ Creating a Landing Page on Topic Flowers.
 Task 1 helped me to create a Landing page with the help of HTML and CSS.
 
 # Connect with Me
-Feel free to explore the repository, provide feedback, or connect with me for further discussions on Software Development, internship experiences, or any related topics. Let's learn and grow together!
+Feel free to explore the repository, provide feedback, or connect with me for further discussions on Web Development, internship experiences, or any related topics. Let's learn and grow together!
 
 # Contact Information
 For any inquiries or collaborations, feel free to reach out:
